@@ -90,7 +90,7 @@ p {
   background:#5F9EA0;
 }
 #welcome {
-  background: url('/imagenes/Pixelart.gif') no-repeat center center/cover;
+  background: url('../imagenes/Pixelart.gif') no-repeat center center/cover;
   height: 1200px;
   width: ;
 }
@@ -132,16 +132,16 @@ p {
 }
 #Genero{
   height: 1000px;
-  background: url('/imagenes/juego10.gif')repeat center center/cover;
+  background: url('../imagenes/juego10.gif')repeat center center/cover;
 }
 #Historia{
   height: 1550px;
-  background: url('/imagenes/juego9.gif')repeat center center/cover;
+  background: url('../imagenes/juego9.gif')repeat center center/cover;
 
 }
 #Industria{
   height: 1550px;
-  background: url('/imagenes/juego11.gif')repeat center center/cover;
+  background: url('../imagenes/juego11.gif')repeat center center/cover;
 
 }
 #features{
@@ -163,15 +163,15 @@ p {
 }
 #esports{
   height: 800px;
-  background: url('/imagenes/juego6.jpg')no-repeat center center/cover;
+  background: url('../imagenes/juego6.jpg')no-repeat center center/cover;
 }
 #esports2{
   height: 800px;
-  background: url('/imagenes/juego7.jpg')no-repeat center center/cover;
+  background: url('../imagenes/juego7.jpg')no-repeat center center/cover;
 }
 #esports3{
   height: 800px;
-  background: url('/imagenes/juego8.jpg')no-repeat center center/cover;
+  background: url('../imagenes/juego8.jpg')no-repeat center center/cover;
 }
 
 #home-info {
@@ -256,7 +256,7 @@ clear: both;
 #testimonials1 {
   height: 800px;
   width: 400px;
-  background: url('/imagenes/jpg') no-repeat center center/cover;
+  background: url('../imagenes/jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
